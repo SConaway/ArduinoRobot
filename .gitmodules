@@ -1,0 +1,12 @@
+[submodule "BluetoothRobot"]
+	path = BluetoothRobot
+	url = https://github.com/SConaway/BluetoothRobot.git
+[submodule "ObstacleAvoidingRobot"]
+	path = ObstacleAvoidingRobot
+	url = https://github.com/SConaway/ObstacleAvoidingRobot.git
+[submodule "IRRobot"]
+	path = IRRobot
+	url = https://github.com/SConaway/IRRobot.git
+[submodule "LTMRobot"]
+	path = LTMRobot
+	url = https://github.com/SConaway/LTMRobot.git
